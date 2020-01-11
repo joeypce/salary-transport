@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{1712BC36-A3A7-4ED3-A01D-01C7BA727164}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASPWebsite/App_Code/Control/UserManager.cs">
+    <Files>
+      <File FileName="ASPWebsite/CalculationResult.aspx.cs" Line="58" Column="27" />
+      <File FileName="ASPWebsite/Records.aspx.cs" Line="289" Column="17" />
+      <File FileName="ASPWebsite/HomePage.aspx.cs" Line="96" Column="9" />
+      <File FileName="ASPWebsite/Anonymous.Master.cs" Line="15" Column="22" />
+      <File FileName="ASPWebsite/App_Code/Control/AddressManager.cs" Line="1" Column="1" />
+      <File FileName="ASPWebsite/App_Code/Control/ApiManager.cs" Line="307" Column="40" />
+      <File FileName="ASPWebsite/App_Code/Control/CalculationManager.cs" Line="95" Column="55" />
+      <File FileName="ASPWebsite/App_Code/Control/DatabaseManager.cs" Line="357" Column="32" />
+      <File FileName="ASPWebsite/App_Code/Control/FeedbackManager.cs" Line="30" Column="34" />
+      <File FileName="ASPWebsite/App_Code/Control/UserManager.cs" Line="33" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ASPWebsite PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
