@@ -1,8 +1,4 @@
-# salary-transport
+# salary-transport satisfaction
  
-Group Members:
-Qing Yao (Leader)
-Delphine
-Xuan Yi
-Darren
-Joey
+Group Members: Qing Yao (Leader), Darren, Delphine, Xuan Yi, Joey
+
