@@ -1,4 +1,4 @@
-## salary-transport satisfaction
+## Salary-Transport Satisfaction
 The project uses data from www.data.gov.sg to calculate relevance between transport and job satisfaction along with other factors based on user rating. 
 
 ## Responsibilities <br/>
